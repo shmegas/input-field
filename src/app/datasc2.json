@@ -1,0 +1,84 @@
+[
+  {
+    "questions": [
+      {
+        "answers": "Warsaw1111",
+        "question": "Where are some of the best medical facilities in East-Central Europe located?",
+        "id": "57339a554776f41900660e74",
+        "img": "../assets/img/2.png"
+      },
+      {
+        "answers": "Children's Memorial Health Institute",
+        "question": "What is the highest reference hospital in all of Poland?",
+        "id": "57339a554776f41900660e75",
+        "img": "../assets/img/7.png"
+      },
+      {
+        "answers": "700",
+        "question": "How many beds does the Maria Sklodowska-Curie Institute of Oncology have?",
+        "id": "57339a554776f41900660e77",
+        "img": "../assets/img/3.png"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "answers": "developed",
+        "question": "What has the infrastructure done a lot of over the past years?",
+        "id": "57339a554776f41900660e78",
+        "img": "../assets/img/5.png"
+      },
+      {
+        "answers": "musical",
+        "question": "What type of venue is the Teatr Wielki?",
+        "id": "57339ad74776f41900660e86",
+        "img": "../assets/img/8.png"
+      },
+      {
+        "answers": "events and festivals",
+        "question": "What does Warsaw host many of?",
+        "id": "57339ad74776f41900660e87",
+        "img": "../assets/img/2.png"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "answers": "Palace of Culture and Science",
+        "question": "Where is the Congress Hall located?",
+        "id": "57339ad74776f41900660e88",
+        "img": "../assets/img/4.png"
+      },
+      {
+        "answers": "Warsaw",
+        "question": "Where is the Jazz Jamboree hosted?",
+        "id": "57339ad74776f41900660e89",
+        "img": "../assets/img/1.png"
+      },
+      {
+        "answers": "Wianki",
+        "question": "What is the polish word for wreaths?",
+        "id": "57339dd94776f41900660ecc",
+        "img": "../assets/img/7.png"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "answers": "thousands",
+        "question": "How man people gather along the banks of the Vistula for the Wianki festival?",
+        "id": "57339dd94776f41900660ecd",
+        "img": "../assets/img/5.png"
+      },
+      {
+        "answers": "fern",
+        "question": "What type of flower is sought on Midsummer's Eve?",
+        "id": "57339dd94776f41900660ed0",
+        "img": "../assets/img/2.png"
+      }
+    ]
+  }
+]
