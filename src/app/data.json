@@ -1,0 +1,67 @@
+[
+   { "questions":  [{
+        "answers": "Warsaw",
+        "question": "Where are some of the best medical facilities in East-Central Europe located?",
+        "id": "57339a554776f41900660e74"
+
+    },
+    {
+        "answers": "Children's Memorial Health Institute",
+        "question": "What is the highest reference hospital in all of Poland?",
+        "id": "57339a554776f41900660e75"
+
+    },
+    {
+        "answers": "700",
+        "question": "How many beds does the Maria Sklodowska-Curie Institute of Oncology have?",
+        "id": "57339a554776f41900660e77"
+    }]},
+    {"questions": [ {
+        "answers": "developed",
+        "question": "What has the infrastructure done a lot of over the past years?",
+        "id": "57339a554776f41900660e78"
+
+    },
+    {
+        "answers": "musical",
+        "question": "What type of venue is the Teatr Wielki?",
+        "id": "57339ad74776f41900660e86"
+
+    },
+    {
+        "answers": "events and festivals",
+        "question": "What does Warsaw host many of?",
+        "id": "57339ad74776f41900660e87"
+
+    }]},
+    {"questions":   [{
+        "answers": "Palace of Culture and Science",
+        "question": "Where is the Congress Hall located?",
+        "id": "57339ad74776f41900660e88"
+
+    },
+    {
+        "answers": "Warsaw",
+        "question": "Where is the Jazz Jamboree hosted?",
+        "id": "57339ad74776f41900660e89"
+
+    },
+    {
+        "answers": "Wianki",
+        "question": "What is the polish word for wreaths?",
+        "id": "57339dd94776f41900660ecc"
+
+    }]},
+    {"questions":[ {
+        "answers": "thousands",
+        "question": "How man people gather along the banks of the Vistula for the Wianki festival?",
+        "id": "57339dd94776f41900660ecd"
+
+    },
+    {
+        "answers": "fern",
+        "question": "What type of flower is sought on Midsummer's Eve?",
+        "id": "57339dd94776f41900660ed0"
+
+    }]}
+]
